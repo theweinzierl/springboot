@@ -113,9 +113,8 @@
 
     <distributionManagement>
         <repository>
-            <id>github</id>
-            <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/projekt-broker-backend/test</url>
+            <name>test</name>
+            <url>>https://github.com/theweinzierl/springboot//raw/mvn-repo</url>
         </repository>
     </distributionManagement>
 
