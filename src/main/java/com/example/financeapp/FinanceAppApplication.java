@@ -18,7 +18,7 @@ public class FinanceAppApplication {
     CommandLineRunner init(ShareRepository shareRepository
     ) {
         return args -> {
-            Share s1 = new Share("SAP", "test", 133.46);
+            Share s1 = new Share("SAP", "test", 133);
             shareRepository.save(s1);
         };
     }
