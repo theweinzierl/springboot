@@ -114,7 +114,7 @@
     <distributionManagement>
         <repository>
             <name>test</name>
-            <url>>https://github.com/theweinzierl/springboot/raw/mvn-repo</url>
+            <url>https://github.com/theweinzierl/springboot/raw/mvn-repo</url>
         </repository>
     </distributionManagement>
 
